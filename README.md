@@ -10,10 +10,10 @@ Feel free to reach out for a chat anytime :)
 
 <p align="center">
   <!-- https://github.com/anuraghazra/github-readme-stats/tree/master?tab=readme-ov-file#github-stats-card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=scorpiontornado&show_icons=true&theme=nord&border_color=434c5e" alt="Profile Stats" height=149px/> <!-- monokai & react also cool -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpiontornado&layout=compact&theme=nord&border_color=434c5e" alt="Profile Stats" height=149px/>
+  <img src="https://github-readme-stats.vercel.app/api?username=scorpiontornado&show_icons=true&theme=nord&border_color=434c5e" alt="Profile Stats" height=180px/> <!-- monokai & react also cool -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scorpiontornado&layout=compact&theme=nord&border_color=434c5e" alt="Profile Stats" height=180px/>
   <!-- https://github.com/JacobLinCool/LeetCode-Stats-Card -->
-  <img src="https://leetcard.jacoblin.cool/scorpiontornado?theme=nord" alt="Leetcode" height=149px/>
+  <img src="https://leetcard.jacoblin.cool/scorpiontornado?theme=nord" alt="Leetcode" height=180px/>
 </p>
 
 <!--
