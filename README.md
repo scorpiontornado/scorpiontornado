@@ -2,7 +2,7 @@
 
 I'm Nicholas Langford, a 2nd-year Computer Science Coop Scholar @ UNSW. I'm an IT Director for UNSW's Coop Society, in charge of the [website](https://coopsoc.com.au/), merch store / payment system, and other internal tools. At the moment, I'm tutoring COMP1521 (Computer Systems Fundamentals) at UNSW, looking at MIPS assembly and introducing systems-level programming in C. I've also tutored COMP1511 (Programming Fundamentals).
 
-I'm currently keen on learning cybersecurity - particularly web security; I'm taking COMP6843 (Extended Web Application Security), and am part of the UNSW SecSoc CTF subcom, where we make fun cybersecurity challenges. I have experience developing fullstack websites using Flask/Jinja2 and React/TS/NextJS (+ APIs with Flask & Express), have done a research project into AI, made an Alexa skill, love competitive programming, and much more!
+I'm currently keen on learning cybersecurity - particularly web security; I loved taking COMP6843 (Extended Web Application Security) last term, and am part of the UNSW SecSoc CTF subcom where we make fun cybersecurity challenges. I have experience developing fullstack websites using Flask/Jinja2 and React/TS/NextJS (+ APIs with Flask & Express), have done a research project into AI, made an Alexa skill, love competitive programming, and much more!
 
 Feel free to reach out for a chat anytime :)
 
